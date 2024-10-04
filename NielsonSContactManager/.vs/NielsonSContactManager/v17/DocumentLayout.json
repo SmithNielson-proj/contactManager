@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\smith\\OneDrive\\Desktop\\Fall 2024\\Server Side Dev - INFO - 3360\\NielsonSContactManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAB2490-AC26-437D-90B7-641159933BCA}|ContactManager\\ContactManager.csproj|c:\\users\\smith\\onedrive\\desktop\\fall 2024\\server side dev - info - 3360\\nielsonscontactmanager\\contactmanager\\views\\contact\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CAB2490-AC26-437D-90B7-641159933BCA}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\views\\contact\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAB2490-AC26-437D-90B7-641159933BCA}|ContactManager\\ContactManager.csproj|c:\\users\\smith\\onedrive\\desktop\\fall 2024\\server side dev - info - 3360\\nielsonscontactmanager\\contactmanager\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CAB2490-AC26-437D-90B7-641159933BCA}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAB2490-AC26-437D-90B7-641159933BCA}|ContactManager\\ContactManager.csproj|c:\\users\\smith\\onedrive\\desktop\\fall 2024\\server side dev - info - 3360\\nielsonscontactmanager\\contactmanager\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAB2490-AC26-437D-90B7-641159933BCA}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAB2490-AC26-437D-90B7-641159933BCA}|ContactManager\\ContactManager.csproj|c:\\users\\smith\\onedrive\\desktop\\fall 2024\\server side dev - info - 3360\\nielsonscontactmanager\\contactmanager\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAB2490-AC26-437D-90B7-641159933BCA}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAB2490-AC26-437D-90B7-641159933BCA}|ContactManager\\ContactManager.csproj|c:\\users\\smith\\onedrive\\desktop\\fall 2024\\server side dev - info - 3360\\nielsonscontactmanager\\contactmanager\\views\\contact\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CAB2490-AC26-437D-90B7-641159933BCA}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\views\\contact\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAB2490-AC26-437D-90B7-641159933BCA}|ContactManager\\ContactManager.csproj|c:\\users\\smith\\onedrive\\desktop\\fall 2024\\server side dev - info - 3360\\nielsonscontactmanager\\contactmanager\\views\\contact\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CAB2490-AC26-437D-90B7-641159933BCA}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\views\\contact\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAB2490-AC26-437D-90B7-641159933BCA}|ContactManager\\ContactManager.csproj|c:\\users\\smith\\onedrive\\desktop\\fall 2024\\server side dev - info - 3360\\nielsonscontactmanager\\contactmanager\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CAB2490-AC26-437D-90B7-641159933BCA}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAB2490-AC26-437D-90B7-641159933BCA}|ContactManager\\ContactManager.csproj|c:\\users\\smith\\onedrive\\desktop\\fall 2024\\server side dev - info - 3360\\nielsonscontactmanager\\contactmanager\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CAB2490-AC26-437D-90B7-641159933BCA}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAB2490-AC26-437D-90B7-641159933BCA}|ContactManager\\ContactManager.csproj|c:\\users\\smith\\onedrive\\desktop\\fall 2024\\server side dev - info - 3360\\nielsonscontactmanager\\contactmanager\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CAB2490-AC26-437D-90B7-641159933BCA}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAB2490-AC26-437D-90B7-641159933BCA}|ContactManager\\ContactManager.csproj|c:\\users\\smith\\onedrive\\desktop\\fall 2024\\server side dev - info - 3360\\nielsonscontactmanager\\contactmanager\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAB2490-AC26-437D-90B7-641159933BCA}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAB2490-AC26-437D-90B7-641159933BCA}|ContactManager\\ContactManager.csproj|c:\\users\\smith\\onedrive\\desktop\\fall 2024\\server side dev - info - 3360\\nielsonscontactmanager\\contactmanager\\models\\contacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAB2490-AC26-437D-90B7-641159933BCA}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\models\\contacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAB2490-AC26-437D-90B7-641159933BCA}|ContactManager\\ContactManager.csproj|c:\\users\\smith\\onedrive\\desktop\\fall 2024\\server side dev - info - 3360\\nielsonscontactmanager\\contactmanager\\models\\contactcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAB2490-AC26-437D-90B7-641159933BCA}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\models\\contactcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\smith\\OneDrive\\Desktop\\Fall 2024\\Server Side Dev - INFO - 3360\\NielsonSContactManager\\ContactManager\\Views\\Contact\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ContactManager\\Views\\Contact\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\smith\\OneDrive\\Desktop\\Fall 2024\\Server Side Dev - INFO - 3360\\NielsonSContactManager\\ContactManager\\Views\\Contact\\Delete.cshtml",
+              "RelativeToolTip": "ContactManager\\Views\\Contact\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T00:24:01.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\smith\\OneDrive\\Desktop\\Fall 2024\\Server Side Dev - INFO - 3360\\NielsonSContactManager\\ContactManager\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ContactManager\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\smith\\OneDrive\\Desktop\\Fall 2024\\Server Side Dev - INFO - 3360\\NielsonSContactManager\\ContactManager\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ContactManager\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T00:23:18.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\smith\\OneDrive\\Desktop\\Fall 2024\\Server Side Dev - INFO - 3360\\NielsonSContactManager\\ContactManager\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ContactManager\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\smith\\OneDrive\\Desktop\\Fall 2024\\Server Side Dev - INFO - 3360\\NielsonSContactManager\\ContactManager\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ContactManager\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T00:23:10.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\smith\\OneDrive\\Desktop\\Fall 2024\\Server Side Dev - INFO - 3360\\NielsonSContactManager\\ContactManager\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\smith\\OneDrive\\Desktop\\Fall 2024\\Server Side Dev - INFO - 3360\\NielsonSContactManager\\ContactManager\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "ContactManager\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T00:08:06.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\smith\\OneDrive\\Desktop\\Fall 2024\\Server Side Dev - INFO - 3360\\NielsonSContactManager\\ContactManager\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\smith\\OneDrive\\Desktop\\Fall 2024\\Server Side Dev - INFO - 3360\\NielsonSContactManager\\ContactManager\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ContactManager\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T00:17:42.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\smith\\OneDrive\\Desktop\\Fall 2024\\Server Side Dev - INFO - 3360\\NielsonSContactManager\\ContactManager\\Views\\Contact\\Details.cshtml",
+              "RelativeDocumentMoniker": "ContactManager\\Views\\Contact\\Details.cshtml",
+              "ToolTip": "C:\\Users\\smith\\OneDrive\\Desktop\\Fall 2024\\Server Side Dev - INFO - 3360\\NielsonSContactManager\\ContactManager\\Views\\Contact\\Details.cshtml",
+              "RelativeToolTip": "ContactManager\\Views\\Contact\\Details.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACwAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T00:23:46.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\smith\\OneDrive\\Desktop\\Fall 2024\\Server Side Dev - INFO - 3360\\NielsonSContactManager\\ContactManager\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ContactManager\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\smith\\OneDrive\\Desktop\\Fall 2024\\Server Side Dev - INFO - 3360\\NielsonSContactManager\\ContactManager\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ContactManager\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T00:23:24.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\smith\\OneDrive\\Desktop\\Fall 2024\\Server Side Dev - INFO - 3360\\NielsonSContactManager\\ContactManager\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ContactManager\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\smith\\OneDrive\\Desktop\\Fall 2024\\Server Side Dev - INFO - 3360\\NielsonSContactManager\\ContactManager\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ContactManager\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T00:23:25.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\smith\\OneDrive\\Desktop\\Fall 2024\\Server Side Dev - INFO - 3360\\NielsonSContactManager\\ContactManager\\Views\\Contact\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ContactManager\\Views\\Contact\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\smith\\OneDrive\\Desktop\\Fall 2024\\Server Side Dev - INFO - 3360\\NielsonSContactManager\\ContactManager\\Views\\Contact\\Edit.cshtml",
+              "RelativeToolTip": "ContactManager\\Views\\Contact\\Edit.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T00:23:39.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Contacts.cs",
+              "DocumentMoniker": "C:\\Users\\smith\\OneDrive\\Desktop\\Fall 2024\\Server Side Dev - INFO - 3360\\NielsonSContactManager\\ContactManager\\Models\\Contacts.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Models\\Contacts.cs",
+              "ToolTip": "C:\\Users\\smith\\OneDrive\\Desktop\\Fall 2024\\Server Side Dev - INFO - 3360\\NielsonSContactManager\\ContactManager\\Models\\Contacts.cs",
+              "RelativeToolTip": "ContactManager\\Models\\Contacts.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwCkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T00:19:47.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ContactContext.cs",
+              "DocumentMoniker": "C:\\Users\\smith\\OneDrive\\Desktop\\Fall 2024\\Server Side Dev - INFO - 3360\\NielsonSContactManager\\ContactManager\\Models\\ContactContext.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Models\\ContactContext.cs",
+              "ToolTip": "C:\\Users\\smith\\OneDrive\\Desktop\\Fall 2024\\Server Side Dev - INFO - 3360\\NielsonSContactManager\\ContactManager\\Models\\ContactContext.cs",
+              "RelativeToolTip": "ContactManager\\Models\\ContactContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T00:19:39.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\smith\\OneDrive\\Desktop\\Fall 2024\\Server Side Dev - INFO - 3360\\NielsonSContactManager\\ContactManager\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\smith\\OneDrive\\Desktop\\Fall 2024\\Server Side Dev - INFO - 3360\\NielsonSContactManager\\ContactManager\\Models\\Category.cs",
+              "RelativeToolTip": "ContactManager\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T00:18:56.925Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+﻿@model Contacts
+@{
+    ViewData["Title"] = "Delete Contact";
+}
+
+<h5>Are you sure you want to delete <strong>@Model.First @Model.Last</strong> ?</h5>
+
+<h6 class="text-danger">Note: This action cannot be undone</h6>
+
+<form asp-action="Delete" method="post">
+
+    <input type="hidden" asp-for="Id" />
+
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a asp-controller="Home" asp-action="Index"
+       class="btn btn-outline-dark">Cancel</a>
+</form>

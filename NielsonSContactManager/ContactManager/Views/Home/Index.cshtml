@@ -1,0 +1,49 @@
+﻿@model List<Contacts>
+@{
+    ViewData["Title"] = "Smith's Contacts";
+}
+
+<div class="mb-2">
+    <a asp-controller="Contact" asp-action="Add" class="btn btn-outline-dark" role="button">Add New Contact</a>
+</div>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>First</th>
+            <th>Last</th>
+            <th>Phone</th>
+            <th>Email</th>
+            <th>Category</th>
+            <th>Date Added</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var contact in Model)
+        {
+            <tr>
+
+                <td>
+                    <a asp-controller="Contact" asp-action="Details"
+                       asp-route-id="@contact.Id" asp-route-slug="@contact.Slug">@contact.First</a>
+                </td>
+
+                <td>
+                    <a asp-controller="Contact" asp-action="Details"
+                       asp-route-id="@contact.Id" asp-route-slug="@contact.Slug">@contact.Last</a>
+                </td>
+                
+                <td>@contact.Phone</td>
+                <td>@contact.Email</td>
+                <td>@contact.Category.Name</td>
+                <td>@contact.DateTime.ToString("MM/dd/yyyy")</td>
+
+
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+
+

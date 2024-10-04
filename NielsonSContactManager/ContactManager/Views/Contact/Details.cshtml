@@ -1,0 +1,77 @@
+﻿@model Contacts
+
+@{
+    ViewData["Title"] = "Contact Details";
+    Contacts contact = new Contacts(); // create an object of the Movie class
+    contact = Model; // assign the Model to the movie object (holds the data)
+}
+
+<h3>@ViewBag.Title</h3>
+
+<form asp-action="Details" method="post">
+
+    <div class="mb-3">
+        <label asp-for="First" class="form-label">First:</label>
+        <input asp-for="First" class="form-control" readonly>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Last" class="form-label">Last:</label>
+        <input asp-for="Last" class="form-control" readonly>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Phone" class="form-label">Phone:</label>
+        <input asp-for="Phone" class="form-control" readonly>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Email" class="form-label">Email:</label>
+        <input asp-for="Email" class="form-control" readonly>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Organization" class="form-label">Organization:</label>
+        <input asp-for="Organization" class="form-control" readonly>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Category.Name" class="form-label">Category:</label>
+        <input asp-for="Category.Name" class="form-control" readonly>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="DateTime" class="form-label">Date Added:</label>
+        <label asp-for="DateTime" class="form-control" readonly>@contact.DateTime.ToString("MM/dd/yyyy hh:mm tt")</label>
+    </div>
+
+    <!-- saves value of ContactID to a hidden field;
+        uses a hidden field rather than a text box because it is the
+        primary key and it should not be changed.
+        if Add() action is served the value is 0, if the Edit() action
+        is served, contains the value of the existing movie
+    -->
+    <input type="hidden" asp-for="Id" />
+
+    <!--
+    <button type="submit" class="btn btn-primary" asp-controller="Contact"
+        asp-action="Edit" asp-route-id="">Edit</button>
+
+    <button type="submit" class="btn btn-primary">Delete</button>
+    -->
+
+    <a asp-controller="Contact" asp-action="Edit" asp-route-id="@contact.Id"
+       class="btn btn-dark">Edit</a>
+
+    <a asp-controller="Contact" asp-action="Delete"
+       asp-route-id="@contact.Id"
+       class="btn btn-dark">Delete</a>
+
+    <a asp-controller="Home" asp-action="Index"
+       class="btn btn-outline-dark">Home</a>
+</form>
+
+<br />
+<br />  
+<br />
+<br />  
